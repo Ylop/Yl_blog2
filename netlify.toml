@@ -1,0 +1,6 @@
+# Configuración de build para Netlify.
+# Instala Quarto en el contenedor de build y renderiza el sitio.
+
+[build]
+  command = "bash ./install_quarto.sh"
+  publish = "_site"
