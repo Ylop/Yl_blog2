@@ -3,7 +3,7 @@ title: "Yanina López Berrío"
 subtitle: "Consultora sénior en Logística y Operaciones"
 about:
   template: jolla
-  image: profile.jpg
+  image: homepic.jpg
   image-shape: round
   image-width: 18em
   links:
