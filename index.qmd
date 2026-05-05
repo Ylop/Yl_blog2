@@ -1,0 +1,47 @@
+---
+title: "YL_blog"
+
+image: profile.jpg
+
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+```{r echo=FALSE, eval=FALSE}
+#install.packages("usethis")
+```
+```{r}
+usethis::use_git_config(
+  # your name
+  user.name = "Ylop",
+  # your email used in your GitHub account
+  user.email = "yaninal@uninorte.edu.co"
+)
+```
+
+```{r}
+usethis::create_github_token("repository1790")
+```
+```{r}
+gitcreds::gitcreds_set()
+```
+
+```{r}
+usethis::git_sitrep()
+```
+
+```{r}
+usethis::use_git()
+```
+```{r}
+usethis::use_github()
+```
+
+

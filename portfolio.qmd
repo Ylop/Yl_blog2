@@ -1,0 +1,93 @@
+---
+title: "Portafolio profesional"
+---
+
+Una vista panorámica de los frentes en los que trabajo actualmente: consultoría en operaciones logísticas para el sector productivo, investigación doctoral aplicada en almacenes inteligentes, asesorías académicas ante el Ministerio de Educación Nacional y formación de profesionales en logística 4.0, calidad e inteligencia artificial.
+
+------------------------------------------------------------------------
+
+## Consultoría en operaciones logísticas
+
+###### Asesoría en operaciones de consolidación, almacenamiento y exportación · GL HUB Empresarial · Parque Logístico LOGIKA, Barranquilla · 2026
+
+Asesoría a empresas del parque logístico-portuario LOGIKA en la gestión de operaciones logísticas de consolidación y desconsolidación de mercancía, almacenamiento y exportación, con foco en utilización de espacio, tiempos de operación, exactitud de inventario y aseguramiento normativo.
+
+**Líneas de trabajo:**
+
+-   Diagnóstico operacional y mapeo de procesos de patio, recibo, almacenamiento y despacho.
+-   Rediseño de layout y flujos aplicando Lean Logistics y Teoría de Restricciones.
+-   Diseño de KPIs y tableros de seguimiento (productividad, ocupación, exactitud de inventario, tiempos de ciclo) en Power BI / Excel avanzado.
+-   Estandarización de procedimientos y aseguramiento de cumplimiento normativo del sector.
+-   Capacitación de equipos operativos.
+
+------------------------------------------------------------------------
+
+## Investigación aplicada · Tesis doctoral
+
+###### Sistema de recomendación para diseño de pasillos de almacén con IA híbrida · Universidad del Norte · 2022 — Presente
+
+Investigación doctoral que desarrolla un sistema de soporte a la decisión (DSS) para el diseño de pasillos y layouts de almacén, basado en una arquitectura híbrida.
+
+**Componentes técnicos:**
+
+-   Representación del conocimiento sobre tipologías de layout (Fishbone, Flying-V, Leaf, Butterfly, Chevron, Diamond, Inverted Flying-V, entre otros).
+-   Motor de inferencia con base en teoría de la información para selección de layout dadas las restricciones del operador.
+-   Capa de generación aumentada por recuperación (RAG) sobre literatura especializada para enriquecer las recomendaciones con evidencia.
+-   Despliegue en arquitectura de microservicios.
+-   Validación con escenarios sintéticos y panel de expertos (escala TAM, acuerdo inter-jueces Krippendorff α ≥ 0.70).
+
+**Aplicación al sector productivo:** la metodología es trasladable a procesos de implantación en empresas reales de logística y distribución para sustentar decisiones de diseño con evidencia y trazabilidad.
+
+------------------------------------------------------------------------
+
+## Asesoría académica y aseguramiento de la calidad
+
+###### Liderazgo de la sustentación del Registro Calificado 2026 · Programa SST · Corporación Politécnico Costa Atlántica
+
+Liderazgo integral de la radicación de los Documentos Maestros y la sustentación ante pares del MEN para la renovación del Registro Calificado del programa de Seguridad y Salud en el Trabajo por ciclos propedéuticos. Articulación de las 9 condiciones de calidad y de la propuesta T → U del modelo por ciclos.
+
+###### Banco de Pares de Registro Calificado · Ministerio de Educación Nacional · 2024
+
+Pertenencia al Banco de Pares de Registro Calificado del MEN. Asesoría a programas de educación superior en procesos de autoevaluación, otorgamiento y renovación de registros calificados, y cambio de carácter académico.
+
+------------------------------------------------------------------------
+
+## Dirección estratégica de programas
+
+###### Dirección integral de programas Ing. Industrial y SST · UPCA · 2017 — Presente
+
+Dirección de dos programas por ciclos propedéuticos con un equipo de más de 20 profesionales de alto nivel. Responsabilidades sobre planeación estratégica, presupuesto, indicadores de gestión y cumplimiento normativo MEN. Despliegue de procesos académico-administrativos con foco en transformación digital, articulando el ecosistema institucional Q10, Microsoft 365, Bitrix 24, Looker Studio y StrikePlagiarism.
+
+------------------------------------------------------------------------
+
+## Formación de profesionales
+
+###### Posgrados y diplomados empresariales · 2019 — Presente
+
+Diseño y entrega de módulos en posgrado y educación continuada en cinco instituciones:
+
+-   **Universidad Simón Bolívar** — Especialización en Logística y Negocios Internacionales: Gestión Logística de la DFI y Seminario de Profundización en Logística 4.0.
+-   **Universidad Libre** — Especialización en Ingeniería de la Calidad y Maestría en Sistemas Integrados de Gestión: Consultoría Empresarial.
+-   **Universidad EAN** — Diplomado empresarial de Administración de Empresas, Plan de Formación 2022 SODIMAC.
+-   **Corporación Educativa Del Prado** — Diplomados en Gestión Integral de la Calidad, Logística Integral, Gerencia de Proyectos e Inteligencia Artificial; capacitaciones en Liderazgo, Planeación Estratégica y Productividad.
+-   **Corporación Politécnico Costa Atlántica** — Pregrado de Ingeniería Industrial: Producción, S&OP, Logística Industrial, DFI, Gestión de Cadena de Abastecimiento, Logística del Transporte y Distribución.
+
+------------------------------------------------------------------------
+
+## Áreas en las que puedo aportar
+
+-   Diagnóstico, rediseño y optimización de operaciones logísticas y de manufactura.
+-   Diseño de almacenes y centros de distribución (layout, slotting, flujos).
+-   Implementación de S&OP, Lean Manufacturing, TOC y Six Sigma.
+-   Analítica de datos e IA aplicada a la decisión empresarial (Power BI, Python, R).
+-   Sistemas integrados de gestión (calidad, SST, ambiente).
+-   Aseguramiento académico y procesos ante el MEN.
+-   Formación in-company en logística 4.0, calidad, IA y liderazgo.
+
+------------------------------------------------------------------------
+
+## Conversemos
+
+¿Tienes una operación logística que quieras mejorar, un proceso académico que requiera asesoría experta o una formación in-company por diseñar?
+
+[Escríbeme a yaninalopezb\@gmail.com](mailto:yaninalopezb@gmail.com) o conéctate por [LinkedIn](https://www.linkedin.com/in/yanina-l%C3%B3pez-berrio-0291534b/).

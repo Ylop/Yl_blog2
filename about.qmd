@@ -1,0 +1,126 @@
+---
+title: ""
+image: profile.jpg
+---
+
+</center>
+
+![](images/profile.jpg){fig-align="center" width="563"}
+
+Soy Ingeniera Industrial, **Especialista en Dirección de Operaciones y Logística**, Magíster en Ingeniería y candidata a Doctora en Ingeniería Industrial, con más de 12 años de experiencia integrando estrategia, tecnología y desarrollo de equipos. Hoy combino la **consultoría en operaciones logísticas** para empresas del [Parque Logístico LOGIKA](https://parquelogistico.com/) en Barranquilla a través de **GL HUB Empresarial**, la dirección estratégica de los programas de Ingeniería Industrial y Seguridad y Salud en el Trabajo de la [Corporación Politécnico de la Costa Atlántica](https://pca.edu.co/wp/) y una línea activa de investigación doctoral en almacenes inteligentes y sistemas de soporte a la decisión asistidos por inteligencia artificial. Soy par académica de Registro Calificado del [Ministerio de Educación Nacional](https://www.mineducacion.gov.co/portal/) y profesora de posgrado en la [Universidad Simón Bolívar](https://www.unisimon.edu.co), la [Universidad Libre](https://www.unilibrebaq.edu.co/unilibrebaq/) y la Corporación Educativa Del Prado, en módulos de Logística 4.0, Consultoría Empresarial, Gestión de la Calidad e Inteligencia Artificial. Mi propuesta de valor es traducir conocimiento técnico avanzado —machine learning, RAG, optimización, sistemas integrados de gestión— en mejoras medibles de productividad, eficiencia y competitividad para la empresa real. Tengo dos hermosos hijos, Gael y Gialena, quienes son mi mayor felicidad; me apasionan la cocina, el ciclismo y preguntarle cosas difíciles a los datos.
+
+### Educación
+
+-   Doctorado en Ingeniería Industrial, [Universidad del Norte](https://www.uninorte.edu.co), Barranquilla. Junio 2022 — Presente. Tesis: sistema de recomendación para diseño de pasillos de almacén con IA híbrida (DSS + RAG).
+
+-   Magíster en Ingeniería, [Universidad EAFIT](https://www.eafit.edu.co), Medellín. Febrero 2018 — septiembre 2020.
+
+-   Especialista en Dirección de Operaciones y Logística, [Universidad EAFIT](https://www.eafit.edu.co), Medellín. Febrero 2014 — septiembre 2015.
+
+-   Ingeniera Industrial, [Universidad del Norte](https://www.uninorte.edu.co), Barranquilla. Enero 2007 — febrero 2012.
+
+### Áreas de especialización
+
+Logística 4.0 y diseño de almacenes inteligentes, S&OP y mejora continua (Lean / TOC / Six Sigma), analítica de datos e inteligencia artificial aplicada a la decisión empresarial, sistemas integrados de gestión y aseguramiento de la calidad, dirección estratégica y desarrollo de equipos.
+
+### Stack y herramientas
+
+Python, R, AMPL, Power BI, Excel avanzado, Looker Studio, Vensim, Bizagi, Visio, AutoCAD, Mendeley, VosViewer, Microsoft 365, Bitrix 24. Métodos: Machine Learning, RAG y sistemas de soporte a la decisión.
+
+### Experiencia profesional
+
+###### Consultora sénior en Operaciones Logísticas, GL HUB Empresarial – Parque Logístico LOGIKA, Barranquilla. Febrero 2026 — Presente.
+
+Asesoría en gestión de operaciones logísticas de consolidación y desconsolidación de mercancía, almacenamiento y operaciones de exportación, articulando flujos de patio, recibo y despacho con los procesos aduaneros del parque LOGIKA. Diagnóstico y rediseño de layout y flujos para incrementar la utilización de espacio y reducir tiempos de operación, con base en Lean Logistics, Teoría de Restricciones y analítica descriptiva en Power BI / Excel avanzado. Diseño de indicadores y tableros de seguimiento (productividad, ocupación, exactitud de inventario, tiempos de ciclo) y acompañamiento en estandarización y aseguramiento normativo del sector logístico-portuario.
+
+###### Directora de programas Ing. Industrial y SST, Corporación Politécnico Costa Atlántica, Barranquilla. Junio 2017 — Presente.
+
+Dirijo la operación integral de dos programas por ciclos propedéuticos, liderando un equipo de más de 20 profesionales de alto nivel, con responsabilidad sobre planeación estratégica, presupuesto, indicadores de gestión y cumplimiento normativo ante el Ministerio de Educación Nacional. En 2026 lideré la sustentación del Registro Calificado del programa de SST ante pares académicos, articulando 9 condiciones de calidad y la propuesta T → U del modelo por ciclos. Diseño y despliego procesos académico-administrativos con enfoque en transformación digital —ecosistema de software institucional Q10, Microsoft 365, Bitrix 24, Looker Studio y StrikePlagiarism— y promuevo iniciativas de relacionamiento con empresa que incrementan la empleabilidad de los egresados.
+
+###### Profesor medio tiempo, Corporación Politécnico Costa Atlántica, Barranquilla. Agosto 2017 — Presente.
+
+Cursos de Producción, Planeación de Ventas y Operaciones (S&OP), Logística Industrial, Distribución Física Internacional, Gestión de la Cadena de Abastecimiento y Logística del Transporte y Distribución.
+
+###### Docente de posgrado, Universidad Simón Bolívar, Barranquilla. Abril 2023 — Presente.
+
+Posgrado en Logística y Negocios Internacionales: módulos de Gestión Logística de la DFI y Seminario de Profundización en Logística 4.0.
+
+###### Docente de posgrado, Universidad Libre, Barranquilla. Noviembre 2023 — Presente.
+
+Posgrados de Especialización en Ingeniería de la Calidad y Maestría en Sistemas Integrados de Gestión: módulos de Consultoría Empresarial.
+
+###### Docente de educación continuada, Universidad EAN. Septiembre 2023 — Noviembre 2023.
+
+Diplomado empresarial de Administración de Empresas — Plan de Formación 2022 SODIMAC.
+
+###### Docente de diplomados, Corporación Educativa Del Prado, Barranquilla. Marzo 2019 — Presente.
+
+Diplomados en Gestión Integral de la Calidad, Logística Integral, Gerencia de Proyectos e Inteligencia Artificial; capacitaciones empresariales en Liderazgo, Planeación Estratégica y Productividad.
+
+###### Instructor, SENA, Barranquilla. Febrero 2016 — Junio 2017.
+
+Planificación curricular y desarrollo del proyecto formativo de los programas Tecnológicos Titulados de Gestión de la Producción Industrial y Gestión Integrada de Calidad, SST y Medio Ambiente. Equipo de aseguramiento de calidad para registro calificado.
+
+### Experiencia en el sector productivo
+
+###### Coordinador Senior de Planta, C.I. Energía Solar ESWindows S.A., Barranquilla. Diciembre 2012 — Diciembre 2013.
+
+Liderazgo del diseño e implementación de proyectos de mejora continua aplicando Lean Manufacturing, TOC y Estudio del Trabajo, con sustentación financiera de la rentabilidad de cada proyecto. Coordinación de la organización y ampliación física de la planta, dirección de inducciones y procesos de selección, y aseguramiento del cumplimiento de metas de producción y facturación.
+
+###### Ingeniero de Producción, C.I. Energía Solar ESWindows S.A., Barranquilla. Junio 2012 — Diciembre 2012.
+
+Documentación de procedimientos, supervisión de gestión y registros, diseño y seguimiento de indicadores e informes de producción, y apoyo a proyectos de mejora continua para optimizar la organización de líneas.
+
+###### Asistente HSEQ, Promigas Telecomunicaciones (hoy CW Networks), Barranquilla. Agosto 2008 — Junio 2012.
+
+Soporte a las actividades de los sistemas integrados de gestión: propuesta, documentación e implementación de proyectos según la normativa colombiana aplicable.
+
+### Investigación
+
+Investigadora junior categorizada por el Ministerio de Ciencia, Tecnología e Innovación. Mi tesis doctoral desarrolla un sistema de recomendación para el diseño de pasillos y layouts de almacén basado en una arquitectura híbrida que combina representación del conocimiento, motores de inferencia con teoría de la información, generación aumentada por recuperación (RAG) y microservicios. El producto final es un sistema de soporte a la decisión (DSS) que entrega recomendaciones explicables a operadores y consultores logísticos, traducible a metodologías de implantación en empresas reales.
+
+### Reconocimientos
+
+-   Banco de Pares de Registro Calificado 2024 — Ministerio de Educación Nacional.
+
+-   Categorización investigador junior — MinCiencias.
+
+-   Estudiante distinguida por promedio académico en especialización y maestría — Universidad EAFIT.
+
+### Hobbies
+
+Cocina y ciclismo.
+
+### Idiomas
+
+Español (nativo), Inglés (avanzado, lectura técnica y conversación profesional).
+
+### Cursos y otros
+
+Curso internacional de Yellow Belt Lean Six Sigma — International Lean Six Sigma Group. Julio 2025.
+
+Curso de Resultados de Aprendizaje para Pares Académicos, Red SACES — Ministerio de Educación Nacional. Julio 2022.
+
+Curso de Evaluación de Resultados de Aprendizaje en Educación Superior, ACIET. Diciembre de 2021.
+
+Curso de Creación de Proyectos de Innovación en las IES, ACIET. Noviembre de 2021.
+
+II Foro Internacional de Resultados de Aprendizajes para la Educación Superior, Ministerio de Educación Nacional. Octubre de 2021.
+
+Foro Internacional Resultados de Aprendizaje y Calidad en la Educación Superior, Ministerio de Educación Nacional. Noviembre de 2020.
+
+Seminario de Herramientas TIC para el Proceso de Enseñanza y Aprendizaje, Corporación Politécnico de la Costa Atlántica. Junio de 2020.
+
+Requisitos para la implementación del sistema de gestión de SST NTC ISO 45001:2018, ICONTEC. Octubre de 2019.
+
+La Importancia de la Ciberseguridad en los Negocios, Tecnológico de Monterrey. Ciudad de México. Septiembre de 2019.
+
+Cómo Crear Empresas Innovadoras con Lean Startup, UNAM. Ciudad de México. Septiembre 2019.
+
+Desarrollo del Pensamiento Lean como Estrategia para la Productividad en los Negocios, SENA. Diciembre de 2016.
+
+Diseño de Estrategias Didácticas para la Formación Profesional Integral, SENA. Octubre de 2016.
+
+Congreso Internacional de Logística y Supply Chain, Universidad EAFIT. Junio de 2015.
+
+Liderazgo e Innovación Empresarial Sostenible — IIE, Pontificia Universidad Javeriana. Marzo de 2011.

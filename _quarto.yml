@@ -1,0 +1,35 @@
+editor: visual
+
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Yanina López B."
+  navbar:
+    right:
+      - text: "Sobre mí"
+        file: about.qmd
+      - text: "Portafolio"
+        file: portfolio.qmd
+      - icon: linkedin
+        href: https://www.linkedin.com/in/yanina-lópez-berrio-0291534b/
+      - icon: instagram
+        href: https://www.instagram.com/yanina800/
+      - icon: envelope
+        href: mailto:yaninalopezb@gmail.com
+      - icon: github
+        href: https://github.com/Ylop
+  page-footer:
+    left: "Website made with [Quarto](https://quarto.org/), by Yanina López."
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+    toc-location: right
+    toc-title: " "
+    number-sections: false
+    code-copy: true
+
+
