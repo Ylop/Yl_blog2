@@ -1,1 +1,8 @@
 /* css styles */
+
+/* Ajustar el encuadre de la foto del home para que no corte la frente */
+.quarto-about-jolla .about-image img,
+.quarto-about-jolla img.about-image {
+  object-fit: cover;
+  object-position: center 25%;
+}
