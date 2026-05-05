@@ -2,92 +2,75 @@
 title: "Portafolio profesional"
 ---
 
-Una vista panorámica de los frentes en los que trabajo actualmente: consultoría en operaciones logísticas para el sector productivo, investigación doctoral aplicada en almacenes inteligentes, asesorías académicas ante el Ministerio de Educación Nacional y formación de profesionales en logística 4.0, calidad e inteligencia artificial.
+Una visión estratégica del valor que aporto al sector productivo a través de la optimización de operaciones, automatización de procesos, analítica de datos e inteligencia artificial aplicada.
+Mi enfoque está orientado a mejorar la eficiencia operativa, reducir costos y fortalecer la toma de decisiones basada en datos.
 
 ------------------------------------------------------------------------
 
-## Consultoría en operaciones logísticas
+## Consultoría en operaciones logísticas, Optimización de operaciones y soluciones digitales
 
-###### Asesoría en operaciones de consolidación, almacenamiento y exportación · GL HUB Empresarial · Parque Logístico LOGIKA, Barranquilla · 2026
+###### Consultoría en logística, analítica y automatización · GL HUB Empresarial · Parque Logístico LOGIKA, Barranquilla · 2026
 
-Asesoría a empresas del parque logístico-portuario LOGIKA en la gestión de operaciones logísticas de consolidación y desconsolidación de mercancía, almacenamiento y exportación, con foco en utilización de espacio, tiempos de operación, exactitud de inventario y aseguramiento normativo.
+Acompaño a empresas en la transformación de sus operaciones logísticas y productivas mediante la integración de mejora operativa, analítica de datos y automatización de procesos.
 
-**Líneas de trabajo:**
+**Cómo genero valor:**
 
--   Diagnóstico operacional y mapeo de procesos de patio, recibo, almacenamiento y despacho.
--   Rediseño de layout y flujos aplicando Lean Logistics y Teoría de Restricciones.
--   Diseño de KPIs y tableros de seguimiento (productividad, ocupación, exactitud de inventario, tiempos de ciclo) en Power BI / Excel avanzado.
--   Estandarización de procedimientos y aseguramiento de cumplimiento normativo del sector.
--   Capacitación de equipos operativos.
+- Diagnóstico y rediseño de operaciones (patio, recibo, almacenamiento, despacho)
+- Optimización de layout y flujos con **Lean Logistics y Teoría de Restricciones**
+- Diseño e implementación de **automatización de procesos operativos**
+- Desarrollo de **tableros de control (Power BI / Excel avanzado)** para toma de decisiones
+- Análisis de datos y modelos para mejorar productividad, tiempos y exactitud de inventarios
+- Diseño de **herramientas digitales y soluciones web** para soporte a la operación
+- Estandarización de procesos y aseguramiento normativo
+- Capacitación de equipos
+
+**Impacto en la operación:**
+- Reducción de ineficiencias y tiempos operativos  
+- Mayor control y visibilidad del proceso logístico  
+- Mejora en utilización de recursos (espacio, tiempo, personal)  
+- Disminución de errores mediante automatización  
 
 ------------------------------------------------------------------------
 
-## Investigación aplicada · Tesis doctoral
+## Investigación aplicada (IA para decisiones logísticas)
 
-###### Sistema de recomendación para diseño de pasillos de almacén con IA híbrida · Universidad del Norte · 2022 — Presente
+###### Sistema de soporte a la decisión para diseño de almacenes · Universidad del Norte · 2022 — Presente
 
-Investigación doctoral que desarrolla un sistema de soporte a la decisión (DSS) para el diseño de pasillos y layouts de almacén, basado en una arquitectura híbrida.
+Desarrollo de un sistema de soporte a la decisión (DSS) para el diseño de layouts de almacén mediante inteligencia artificial híbrida.
 
 **Componentes técnicos:**
 
--   Representación del conocimiento sobre tipologías de layout (Fishbone, Flying-V, Leaf, Butterfly, Chevron, Diamond, Inverted Flying-V, entre otros).
--   Motor de inferencia con base en teoría de la información para selección de layout dadas las restricciones del operador.
--   Capa de generación aumentada por recuperación (RAG) sobre literatura especializada para enriquecer las recomendaciones con evidencia.
--   Despliegue en arquitectura de microservicios.
--   Validación con escenarios sintéticos y panel de expertos (escala TAM, acuerdo inter-jueces Krippendorff α ≥ 0.70).
+- Representación del conocimiento sobre tipologías de layout (Fishbone, Chevron, Flying-V, entre otros)
+- Motor de inferencia basado en teoría de la información (entropía)
+- Arquitectura con **RAG (Retrieval-Augmented Generation)** para recomendaciones basadas en evidencia
+- Despliegue en arquitectura de microservicios
+- Validación con expertos (TAM, Krippendorff α ≥ 0.70)
 
-**Aplicación al sector productivo:** la metodología es trasladable a procesos de implantación en empresas reales de logística y distribución para sustentar decisiones de diseño con evidencia y trazabilidad.
-
-------------------------------------------------------------------------
-
-## Asesoría académica y aseguramiento de la calidad
-
-###### Liderazgo de la sustentación del Registro Calificado 2026 · Programa SST · Corporación Politécnico Costa Atlántica
-
-Liderazgo integral de la radicación de los Documentos Maestros y la sustentación ante pares del MEN para la renovación del Registro Calificado del programa de Seguridad y Salud en el Trabajo por ciclos propedéuticos. Articulación de las 9 condiciones de calidad y de la propuesta T → U del modelo por ciclos.
-
-###### Banco de Pares de Registro Calificado · Ministerio de Educación Nacional · 2024
-
-Pertenencia al Banco de Pares de Registro Calificado del MEN. Asesoría a programas de educación superior en procesos de autoevaluación, otorgamiento y renovación de registros calificados, y cambio de carácter académico.
-
-------------------------------------------------------------------------
-
-## Dirección estratégica de programas
-
-###### Dirección integral de programas Ing. Industrial y SST · UPCA · 2017 — Presente
-
-Dirección de dos programas por ciclos propedéuticos con un equipo de más de 20 profesionales de alto nivel. Responsabilidades sobre planeación estratégica, presupuesto, indicadores de gestión y cumplimiento normativo MEN. Despliegue de procesos académico-administrativos con foco en transformación digital, articulando el ecosistema institucional Q10, Microsoft 365, Bitrix 24, Looker Studio y StrikePlagiarism.
-
-------------------------------------------------------------------------
-
-## Formación de profesionales
-
-###### Posgrados y diplomados empresariales · 2019 — Presente
-
-Diseño y entrega de módulos en posgrado y educación continuada en cinco instituciones:
-
--   **Universidad Simón Bolívar** — Especialización en Logística y Negocios Internacionales: Gestión Logística de la DFI y Seminario de Profundización en Logística 4.0.
--   **Universidad Libre** — Especialización en Ingeniería de la Calidad y Maestría en Sistemas Integrados de Gestión: Consultoría Empresarial.
--   **Universidad EAN** — Diplomado empresarial de Administración de Empresas, Plan de Formación 2022 SODIMAC.
--   **Corporación Educativa Del Prado** — Diplomados en Gestión Integral de la Calidad, Logística Integral, Gerencia de Proyectos e Inteligencia Artificial; capacitaciones en Liderazgo, Planeación Estratégica y Productividad.
--   **Corporación Politécnico Costa Atlántica** — Pregrado de Ingeniería Industrial: Producción, S&OP, Logística Industrial, DFI, Gestión de Cadena de Abastecimiento, Logística del Transporte y Distribución.
+**Aplicación al sector productivo:**
+- Soporte técnico para decisiones de diseño de almacenes  
+- Reducción del riesgo en implementación de layouts  
+- Optimización del desempeño operativo a largo plazo  
 
 ------------------------------------------------------------------------
 
 ## Áreas en las que puedo aportar
 
--   Diagnóstico, rediseño y optimización de operaciones logísticas y de manufactura.
--   Diseño de almacenes y centros de distribución (layout, slotting, flujos).
--   Implementación de S&OP, Lean Manufacturing, TOC y Six Sigma.
--   Analítica de datos e IA aplicada a la decisión empresarial (Power BI, Python, R).
--   Sistemas integrados de gestión (calidad, SST, ambiente).
--   Aseguramiento académico y procesos ante el MEN.
--   Formación in-company en logística 4.0, calidad, IA y liderazgo.
+- Optimización de operaciones logísticas y de manufactura  
+- Diseño de almacenes y centros de distribución (layout, slotting, flujos)  
+- Implementación de Lean Manufacturing, TOC y Six Sigma  
+- Planeación S&OP  
+- Analítica de datos e IA aplicada a la empresa  
+- Sistemas integrados de gestión (calidad, SST, ambiente)  
 
 ------------------------------------------------------------------------
 
 ## Conversemos
 
-¿Tienes una operación logística que quieras mejorar, un proceso académico que requiera asesoría experta o una formación in-company por diseñar?
+Si estás buscando:
+
+- Optimizar tu operación logística o productiva  
+- Reducir costos y mejorar eficiencia  
+- Implementar analítica de datos o automatización  
+- Automzatizar, diseñar o rediseñar tu operación  
 
 [Escríbeme a yaninalopezb\@gmail.com](mailto:yaninalopezb@gmail.com) o conéctate por [LinkedIn](https://www.linkedin.com/in/yanina-l%C3%B3pez-berrio-0291534b/).
