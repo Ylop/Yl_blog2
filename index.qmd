@@ -1,15 +1,28 @@
 ---
-title: "YL_blog"
+title: "Yanina López Berrío"
+subtitle: "Consultora sénior en Logística y Operaciones"
+about:
+  template: jolla
+  image: profile.jpg
+  image-shape: round
+  image-width: 18em
+  links:
+    - icon: person-circle
+      text: Sobre mí
+      href: about.html
+    - icon: briefcase
+      text: Portafolio
+      href: portfolio.html
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/yanina-l%C3%B3pez-berrio-0291534b/
+    - icon: envelope
+      text: Email
+      href: mailto:yaninalopezb@gmail.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/Ylop
+---
 
-image: profile.jpg
-
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+Combino la consultoría en operaciones logísticas, la dirección de programas universitarios y una línea activa de investigación doctoral en almacenes inteligentes y sistemas de soporte a la decisión asistidos por inteligencia artificial. Mi propuesta de valor: traducir conocimiento técnico avanzado en mejoras medibles de productividad, eficiencia y competitividad para la empresa real.
 ---
